@@ -2,8 +2,8 @@ const {Client} = require("pg")
 const client = new Client({
   user: 'redcat',
   host: '203.185.67.58',
-  database: 'dbhighmap_example',
-  password: 'std12345',
+  database: '',
+  password: '',
   port: 5432,
 })
 
